@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p $PORT",
-    "slicemachine": "start-slicemachine"
+    "slicemachine": "start-slicemachine",
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "@prismicio/client": "^6.6.3",
