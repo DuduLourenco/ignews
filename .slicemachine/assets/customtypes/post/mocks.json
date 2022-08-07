@@ -1,0 +1,21 @@
+{
+  "id": "812fe99b-5eab-493a-9a9f-9f8cc7b9c201",
+  "uid": "illum-ut-ut",
+  "type": "post",
+  "data": {
+    "Title": [
+      {
+        "type": "heading1",
+        "text": "Benchmark B2C e-tailers",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Excepteur duis voluptate incididunt occaecat exercitation duis.",
+        "spans": []
+      }
+    ]
+  }
+}
